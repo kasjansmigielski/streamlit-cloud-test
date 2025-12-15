@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title("Hello World")
-st.write("This is a test")
+st.title("To jest testowy projekt Streamlit")
+st.write("Aktualna wersja Python: ", sys.version)
